@@ -8,15 +8,15 @@ To identify and analyze the relationships among 'Game of Thrones' characters to 
 
 ## Key Findings
 
-- **Most Central Characters**: In the first book, Eddard Stark emerged as the most central figure. However, in the fifth book, Jon Snow and Daenerys Targaryen took the lead.
-- **Strongest Connections**: Houses Stark and Lannister showed the strongest inter-character connections, reflecting their significant influence throughout the series.
+- **Most central characters**: In the first book, Eddard Stark emerged as the most central figure. However, in the fifth book, Jon Snow and Daenerys Targaryen took the lead.
+- **Strongest connections**: Houses Stark and Lannister showed the strongest inter-character connections, reflecting their significant influence throughout the series.
 
 ## Project Learnings
 
-1. **Data Manipulation and Analysis**: Mastered the use of Pandas for cleaning, filtering, and analyzing complex datasets.
-2. **Visualization Techniques**: Developed advanced skills in Matplotlib for creating compelling visual representations of network data.
-3. **Network Analysis**: Gained proficiency in NetworkX to construct and interpret complex network graphs.
-4. **Pattern Recognition**: Enhanced ability to identify and analyze patterns in data, providing deeper insights into character interactions and their narrative significance.
+1. **Data manipulation and analysis**: Mastered the use of Pandas for cleaning, filtering, and analyzing complex datasets.
+2. **Visualization techniques**: Developed advanced skills in Matplotlib for creating compelling visual representations of network data.
+3. **Network analysis**: Gained proficiency in NetworkX to construct and interpret complex network graphs.
+4. **Pattern recognition**: Enhanced ability to identify and analyze patterns in data, providing deeper insights into character interactions and their narrative significance.
 
 ## Dataset
 
